@@ -48,6 +48,7 @@ AMD
 google
 gemini
 deepmind
+赛微电子
 
 chatgpt
 openai
@@ -91,5 +92,3 @@ ai
 同花顺
 
 天音控股
-
-航天动力
